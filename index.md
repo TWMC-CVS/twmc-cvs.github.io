@@ -6,7 +6,7 @@ feature_image: "https://twmc-cvs.github.io/assets/twmc-banner.png"
 excerpt: "For your convenience and efficiency, we have developed a portal for common routine medical reviews. Striaght forward reviews can be completed digitally which avoid the need for an appointment. The online forms have been designed by us to provide the information needed to complete your review and reautherise your medication. The outcome of the review will be sent to you by email or text."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+"For your convenience and efficiency, we have developed a portal for common routine medical reviews. Striaght forward reviews can be completed digitally which avoid the need for an appointment. The online forms have been designed by us to provide the information needed to complete your review and reautherise your medication. The outcome of the review will be sent to you by email or text."
 
 ## Features
 
