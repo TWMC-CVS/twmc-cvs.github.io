@@ -11,3 +11,5 @@ For your convenience and efficiency, we have developed a portal for common routi
 ## Forms
 
 [![contraception](assets\logos\contraception.png)](https://google.com/)
+[![HRT](assets\logos\HRT.png)](https://google.com/)
+[![hypertension](assets\logos\hypertension.png)](https://google.com/)
