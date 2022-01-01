@@ -1,8 +1,7 @@
 ---
 title: Review Home
-#feature_text: |
-  ## The Medical Centre @ Taff's Well
-  Routine Review Portal
+feature_text: |
+# add title here
 feature_image: "https://twmc-cvs.github.io/assets/twmc-banner.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
