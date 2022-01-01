@@ -10,7 +10,7 @@ For your convenience and efficiency, we have developed a portal for common routi
 
 ## Features
 
-[(assets\logos\contraception.png)](https://google.com/)
+[!(assets\logos\contraception.png)](https://google.com/)
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
