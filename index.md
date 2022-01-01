@@ -1,6 +1,6 @@
 ---
 title: Review Home
-feature_text: |
+#feature_text: |
   ## The Medical Centre @ Taff's Well
   Routine Review Portal
 feature_image: "https://twmc-cvs.github.io/assets/twmc-banner.png"
